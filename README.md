@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## Tech Stacks 🐾
 
 <p align="center">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=Python&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-FCC624?style=flat-square&logo=Python&logoColor=white">
     <img alt="Java" src="https://img.shields.io/badge/Java-3572a5?style=flat-square&logo=CoffeeScript&logoColor=white">
     <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white">
     <br/>
