@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 [![](https://github-readme-stats.vercel.app/api?username=eastonyangxu&show_icons=true&theme=github_dark_dimmed)](https://github.com/eastonyangxu/eastonyangxu.github.io)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eastonyangxu&layout=compact)](https://github.com/eastonyangxu/eastonyangxu.github.io)
 
+![](https://github-readme-stats.vercel.app/api?username=eastonyangxu&show_icons=true&theme=github_dark_dimmed)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eastonyangxu&layout=compact)
+
 ## Tech Stacks 🐾
 
 <p align="center">
