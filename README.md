@@ -58,4 +58,4 @@ Here are some ideas to get you started:
     <img alt="VSCode" src="https://img.shields.io/badge/VSCode-3860c4?style=flat-square&logo=visual-studio-code&logoColor=white">
 </p>
 
-[![](https://github-readme-stats.vercel.app/api?username=eastonyangxu)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=eastonyangxu&show_icons=true&theme=github_dark_dimmed)](https://github.com/eastonyangxu/eastonyangxu.github.io)
