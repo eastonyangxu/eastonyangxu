@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 -->
 - 🔭Here have some projects like [eastonyangxu.github.io](https://github.com/eastonyangxu/eastonyangxu.github.io)
 
-![](https://github-readme-stats.vercel.app/api?username=eastonyangxu&count_private=true&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eastonyangxu&layout=compact)
-
+[![](https://github-readme-stats.vercel.app/api?username=eastonyangxu&show_icons=true&theme=github_dark_dimmed)](https://github.com/eastonyangxu/eastonyangxu.github.io)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eastonyangxu&layout=compact)](https://github.com/eastonyangxu/eastonyangxu.github.io)
 
 ## Tech Stacks 🐾
 
@@ -58,4 +57,3 @@ Here are some ideas to get you started:
     <img alt="VSCode" src="https://img.shields.io/badge/VSCode-3860c4?style=flat-square&logo=visual-studio-code&logoColor=white">
 </p>
 
-[![](https://github-readme-stats.vercel.app/api?username=eastonyangxu&show_icons=true&theme=github_dark_dimmed)](https://github.com/eastonyangxu/eastonyangxu.github.io)
