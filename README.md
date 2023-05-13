@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=eastonyangxu&show_icons=true&theme=github_dark_dimmed)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eastonyangxu&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ## Tech Stacks 🐾
 
