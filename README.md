@@ -57,3 +57,5 @@ Here are some ideas to get you started:
     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white">
     <img alt="VSCode" src="https://img.shields.io/badge/VSCode-3860c4?style=flat-square&logo=visual-studio-code&logoColor=white">
 </p>
+
+[![](https://github-readme-stats.vercel.app/api?username=eastonyangxu)](https://github.com/anuraghazra/github-readme-stats)
