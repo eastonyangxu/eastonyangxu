@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 - 📚访问我的博客 [Easton's Blog](https://eastonyangxu.github.io/)
 
-[![](https://github-readme-stats.vercel.app/api?username=eastonyangxu&show_icons=true&theme=github_dark_dimmed)](https://github.com/eastonyangxu/eastonyangxu.github.io)
+[![](https://github-readme-stats.vercel.app/api?username=eastonyangxu&show_icons=true&theme=buefy)](https://github.com/eastonyangxu/eastonyangxu.github.io)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eastonyangxu&layout=compact)](https://github.com/eastonyangxu/eastonyangxu.github.io)
 
 ## Tech Stacks 🐾
