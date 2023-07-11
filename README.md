@@ -52,9 +52,11 @@ Here are some ideas to get you started:
 
 <p align="center">
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white">
+    <img alt="Mac" src="https://img.shields.io/badge/Mac-5f78f0?style=flat-square&logo=Apple&logoColor=white">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black">
     <br/>
     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white">
-    <img alt="VSCode" src="https://img.shields.io/badge/VSCode-3860c4?style=flat-square&logo=visual-studio-code&logoColor=white">
+    <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-009639?style=flat-square&logo=PyCharm&logoColor=white">
+    <img alt="VSCode" src="https://img.shields.io/badge/VSCode-5282F8?style=flat-square&logo=visual-studio-code&logoColor=white">
 </p>
 
